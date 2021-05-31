@@ -1,5 +1,8 @@
 # hpc_lecture
 
+## 20M38216 Shen Ruoyue
+
+
 |          | Topic                                | Sample code               |
 | -------- | ------------------------------------ | ------------------------- |
 | Class 1  | Introduction to parallel programming |                           |
